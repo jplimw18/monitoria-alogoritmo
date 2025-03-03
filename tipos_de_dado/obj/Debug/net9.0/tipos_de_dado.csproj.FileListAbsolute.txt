@@ -1,0 +1,14 @@
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\bin\Debug\net9.0\tipos_de_dado.exe
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\bin\Debug\net9.0\tipos_de_dado.deps.json
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\bin\Debug\net9.0\tipos_de_dado.runtimeconfig.json
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\bin\Debug\net9.0\tipos_de_dado.dll
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\bin\Debug\net9.0\tipos_de_dado.pdb
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\obj\Debug\net9.0\tipos_de_dado.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\obj\Debug\net9.0\tipos_de_dado.AssemblyInfoInputs.cache
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\obj\Debug\net9.0\tipos_de_dado.AssemblyInfo.cs
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\obj\Debug\net9.0\tipos_de_dado.csproj.CoreCompileInputs.cache
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\obj\Debug\net9.0\tipos_de_dado.dll
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\obj\Debug\net9.0\refint\tipos_de_dado.dll
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\obj\Debug\net9.0\tipos_de_dado.pdb
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\obj\Debug\net9.0\tipos_de_dado.genruntimeconfig.cache
+C:\FACUL\MONITORIA\monitoria-csharp\tipos_de_dado\obj\Debug\net9.0\ref\tipos_de_dado.dll

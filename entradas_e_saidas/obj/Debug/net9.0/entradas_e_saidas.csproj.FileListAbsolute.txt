@@ -1,0 +1,14 @@
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\bin\Debug\net9.0\entradas_e_saidas.exe
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\bin\Debug\net9.0\entradas_e_saidas.deps.json
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\bin\Debug\net9.0\entradas_e_saidas.runtimeconfig.json
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\bin\Debug\net9.0\entradas_e_saidas.dll
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\bin\Debug\net9.0\entradas_e_saidas.pdb
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\obj\Debug\net9.0\entradas_e_saidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\obj\Debug\net9.0\entradas_e_saidas.AssemblyInfoInputs.cache
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\obj\Debug\net9.0\entradas_e_saidas.AssemblyInfo.cs
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\obj\Debug\net9.0\entradas_e_saidas.csproj.CoreCompileInputs.cache
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\obj\Debug\net9.0\entradas_e_saidas.dll
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\obj\Debug\net9.0\refint\entradas_e_saidas.dll
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\obj\Debug\net9.0\entradas_e_saidas.pdb
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\obj\Debug\net9.0\entradas_e_saidas.genruntimeconfig.cache
+C:\FACUL\MONITORIA\monitoria-csharp\entradas_e_saidas\obj\Debug\net9.0\ref\entradas_e_saidas.dll
