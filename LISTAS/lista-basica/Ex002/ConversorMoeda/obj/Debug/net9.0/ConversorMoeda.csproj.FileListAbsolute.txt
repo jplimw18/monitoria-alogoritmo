@@ -1,0 +1,15 @@
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\bin\Debug\net9.0\ConversorMoeda.exe
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\bin\Debug\net9.0\ConversorMoeda.deps.json
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\bin\Debug\net9.0\ConversorMoeda.runtimeconfig.json
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\bin\Debug\net9.0\ConversorMoeda.dll
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\bin\Debug\net9.0\ConversorMoeda.pdb
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\obj\Debug\net9.0\ConversorMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\obj\Debug\net9.0\ConversorMoeda.AssemblyInfoInputs.cache
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\obj\Debug\net9.0\ConversorMoeda.AssemblyInfo.cs
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\obj\Debug\net9.0\ConversorMoeda.csproj.CoreCompileInputs.cache
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\obj\Debug\net9.0\ConversorMoeda.sourcelink.json
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\obj\Debug\net9.0\ConversorMoeda.dll
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\obj\Debug\net9.0\refint\ConversorMoeda.dll
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\obj\Debug\net9.0\ConversorMoeda.pdb
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\obj\Debug\net9.0\ConversorMoeda.genruntimeconfig.cache
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex002\ConversorMoeda\obj\Debug\net9.0\ref\ConversorMoeda.dll

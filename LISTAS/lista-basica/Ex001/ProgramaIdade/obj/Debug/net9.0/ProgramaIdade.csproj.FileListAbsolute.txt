@@ -1,0 +1,15 @@
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\bin\Debug\net9.0\ProgramaIdade.exe
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\bin\Debug\net9.0\ProgramaIdade.deps.json
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\bin\Debug\net9.0\ProgramaIdade.runtimeconfig.json
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\bin\Debug\net9.0\ProgramaIdade.dll
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\bin\Debug\net9.0\ProgramaIdade.pdb
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\obj\Debug\net9.0\ProgramaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\obj\Debug\net9.0\ProgramaIdade.AssemblyInfoInputs.cache
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\obj\Debug\net9.0\ProgramaIdade.AssemblyInfo.cs
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\obj\Debug\net9.0\ProgramaIdade.csproj.CoreCompileInputs.cache
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\obj\Debug\net9.0\ProgramaIdade.sourcelink.json
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\obj\Debug\net9.0\ProgramaIdade.dll
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\obj\Debug\net9.0\refint\ProgramaIdade.dll
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\obj\Debug\net9.0\ProgramaIdade.pdb
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\obj\Debug\net9.0\ProgramaIdade.genruntimeconfig.cache
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-basica\Ex001\ProgramaIdade\obj\Debug\net9.0\ref\ProgramaIdade.dll
