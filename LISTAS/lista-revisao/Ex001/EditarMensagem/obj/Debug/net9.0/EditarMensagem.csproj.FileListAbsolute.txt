@@ -1,0 +1,15 @@
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\bin\Debug\net9.0\EditarMensagem.exe
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\bin\Debug\net9.0\EditarMensagem.deps.json
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\bin\Debug\net9.0\EditarMensagem.runtimeconfig.json
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\bin\Debug\net9.0\EditarMensagem.dll
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\bin\Debug\net9.0\EditarMensagem.pdb
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\obj\Debug\net9.0\EditarMensagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\obj\Debug\net9.0\EditarMensagem.AssemblyInfoInputs.cache
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\obj\Debug\net9.0\EditarMensagem.AssemblyInfo.cs
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\obj\Debug\net9.0\EditarMensagem.csproj.CoreCompileInputs.cache
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\obj\Debug\net9.0\EditarMensagem.sourcelink.json
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\obj\Debug\net9.0\EditarMensagem.dll
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\obj\Debug\net9.0\refint\EditarMensagem.dll
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\obj\Debug\net9.0\EditarMensagem.pdb
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\obj\Debug\net9.0\EditarMensagem.genruntimeconfig.cache
+C:\FACUL\MONITORIA\monitoria-csharp\LISTAS\lista-revisao\Ex001\EditarMensagem\obj\Debug\net9.0\ref\EditarMensagem.dll

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ex001", "Ex001", "{ED1B805C-1829-DE6D-A409-5AF2890F4BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EditarMensagem", "Ex001\EditarMensagem\EditarMensagem.csproj", "{625401A5-F765-AA95-9AC3-31136ADE3070}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{625401A5-F765-AA95-9AC3-31136ADE3070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{625401A5-F765-AA95-9AC3-31136ADE3070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{625401A5-F765-AA95-9AC3-31136ADE3070}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{625401A5-F765-AA95-9AC3-31136ADE3070}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{625401A5-F765-AA95-9AC3-31136ADE3070} = {ED1B805C-1829-DE6D-A409-5AF2890F4BF3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D38EFC8-0041-4665-81EA-EC5A92AC470B}
+	EndGlobalSection
+EndGlobal
